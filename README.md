@@ -4,6 +4,12 @@ A local review board for a proposed DJI Mini 3 propeller guard. This concept is 
 
 **Live demo:** [encube-assignment.vercel.app](https://encube-assignment.vercel.app/)
 
+**Project demo video:** [Watch the Loom walkthrough](https://www.loom.com/share/c8de3f0c355d47d2b7a479400f6e0b94)
+
+## Development approach
+
+I first used Codex Plan Mode to understand the requirements, define a scope that fit the four-hour time limit, and make key trade-offs and design decisions before implementation. I then used AI-assisted development to build the project within that scope.
+
 ## Run locally
 
 Requires Node 22.12+ and npm.
